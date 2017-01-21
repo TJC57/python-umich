@@ -1,0 +1,1 @@
+print "This script verifies Python was installed correctly."
